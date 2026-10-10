@@ -38,11 +38,11 @@ Monitoring hundreds of live sports broadcasts simultaneously makes it impossible
 
 Don't want to mess with Python dependencies? Download the compiled, ready-to-run executable for your OS from the Releases page:
 
-🪟 [Windows](https://github.com/AkvilaAkiel/Live-Stream-Analyzer/releases/download/v8.0.0/StreamAnalyzer_Windows.rar) 
+🪟 [Windows](https://github.com/AkvilaAkiel/Live-Stream-Analyzer/releases/download/v8.0.0/StreamAnalyzer_Windows.rar) (.rar)
 
-🍎 [macOS](https://github.com/AkvilaAkiel/Live-Stream-Analyzer/releases/download/v8.0.0/StreamAnalyzer_MacOS.zip)
+🍎 [macOS](https://github.com/AkvilaAkiel/Live-Stream-Analyzer/releases/download/v8.0.0/StreamAnalyzer_MacOS.zip) (.zip)
 
-🐧 [Linux](https://github.com/AkvilaAkiel/Live-Stream-Analyzer/releases/download/v8.0.0/LiveStreamAnalyzer_Linux_v_8.zip) 
+🐧 [Linux](https://github.com/AkvilaAkiel/Live-Stream-Analyzer/releases/download/v8.0.0/LiveStreamAnalyzer_Linux_v_8.zip) (.zip)
 
 ## ⚙️ Setup Instructions
 1. Ensure [FFmpeg](https://ffmpeg.org/download.html) is installed and added to your system's PATH.
