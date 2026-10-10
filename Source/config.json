@@ -1,0 +1,12 @@
+{
+  "defaults": {
+    "black_correlated_sec": 1.5,
+    "black_solo_sec": 5.0,
+    "freeze_correlated_sec": 2.0,
+    "freeze_solo_sec": 6.0,
+    "silence_threshold": 5,
+    "vart_window": 3.0,
+    "vart_min_count": 2
+  },
+  "channels": {}
+}
