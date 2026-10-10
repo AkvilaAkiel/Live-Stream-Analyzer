@@ -34,6 +34,17 @@ Monitoring hundreds of live sports broadcasts simultaneously makes it impossible
 4. The logic engine calculates durations and correlates events (e.g., overlapping silence and black frames).
 5. State changes are pushed to a Queue, which the main GUI thread consumes every 200ms to update the dashboard, trigger sounds, and save snapshots.
 
+📥 Download Ready-to-Use App
+
+Don't want to mess with Python dependencies? Download the compiled, ready-to-run executable for your OS from the Releases page:
+
+🪟 Windows (.zip)
+
+🍎 macOS (.zip)
+
+🐧 Linux (.zip)
+(Note: FFmpeg must still be installed on your system).
+
 ## ⚙️ Setup Instructions
 1. Ensure [FFmpeg](https://ffmpeg.org/download.html) is installed and added to your system's PATH.
 2. Clone the repository.
