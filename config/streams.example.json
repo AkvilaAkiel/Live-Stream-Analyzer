@@ -1,0 +1,11 @@
+{
+  "channels": [
+    {
+      "name": "Synthetic demo",
+      "cdn_id": "demo",
+      "url": "/app/config/demo.mp4",
+      "audio": true,
+      "enabled": true
+    }
+  ]
+}

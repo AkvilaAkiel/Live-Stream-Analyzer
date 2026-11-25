@@ -1,0 +1,17 @@
+services:
+  stream-analyzer:
+    build: .
+    init: true
+    restart: unless-stopped
+    shm_size: 256m
+    env_file: .env
+    environment:
+      TZ: UTC
+    volumes:
+      - ./config:/app/config
+      - ./screenshots:/app/screenshots
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
