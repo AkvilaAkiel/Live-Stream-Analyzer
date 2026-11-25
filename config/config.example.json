@@ -1,0 +1,18 @@
+{
+  "defaults": {
+    "black_with_silence_sec": 2.5,
+    "black_with_audio_sec": 6.0,
+    "freeze_with_audio_sec": 8.0,
+    "freeze_with_silence_sec": 5.0,
+    "silence_threshold": 12,
+    "vart_window": 4.0,
+    "vart_min_count": 12,
+    "alert_cooldown_sec": 300,
+    "abr_profile_mode": "balanced"
+  },
+  "channels": {
+    "Synthetic demo": {
+      "silence_threshold": 2
+    }
+  }
+}

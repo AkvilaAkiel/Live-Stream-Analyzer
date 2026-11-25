@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.stfolder/
+.DS_Store
+__pycache__/
+*.log
+screenshots/
+config/*
+!config/config.example.json
+!config/streams.example.json
